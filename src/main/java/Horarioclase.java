@@ -12,5 +12,6 @@ public class Horarioclase {
         System.out.println("Lunes\tMartes\tMiercoles\tjueves\tviernes");
         System.out.println("=====\t=====\t=====\t=====\t=====");
         System.out.println("Proyecto\tArquitectura\tProgramacion\tAuditoria\tIng");
+       System.out.println("inicio de clase");
 }
     }
